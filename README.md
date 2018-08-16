@@ -1,5 +1,10 @@
 <h1 align="center">Yesod form example in Eta</h1>
 
+<p align="center">
+  <img src="./resources/eta-yesod-form.png" width="80%" />
+</p>
+
+
 ## Running the server
 
 1) Fire up the terminal and enter the commands:
