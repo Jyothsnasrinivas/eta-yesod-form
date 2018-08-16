@@ -4,7 +4,6 @@
   <img src="./resources/eta-yesod-form.png" width="80%" />
 </p>
 
-
 ## Running the server
 
 1) Fire up the terminal and enter the commands:
@@ -18,3 +17,7 @@
 2) Open the url `http://localhost:3000` in your favourite browser.
 
 3) Fill the form and press the submit button to see the magic!
+
+** Credits **
+
+This example is inspired from Forms chapter in the [Yesod book](https://www.yesodweb.com/book/forms)
